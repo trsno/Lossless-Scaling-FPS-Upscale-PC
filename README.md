@@ -3,7 +3,7 @@
 
 # Lossless Scaling - PC Desktop Version
 
-[![Stars](https://img.shields.io/github/stars/trsno/Lossless-Scaling-FPS-Upscale-PC)](https://github.com/trsno/Lossless-Scaling-FPS-Upscale-PC) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/trsno/Lossless-Scaling-FPS-Upscale-PC)](https://github.com/trsno/Lossless-Scaling-FPS-Upscale-PC) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Lossless Scaling** is a powerful, lightweight Windows application that lets you upscale and enhance any game or application with perfect image quality and increased performance.
 It offers lossless integer scaling, advanced AI frame generation (LSFG), and multiple upscaling algorithms — allowing you to run games at higher resolutions, achieve significantly higher FPS, and enjoy sharper visuals even on 1440p, 4K, or ultrawide monitors.
